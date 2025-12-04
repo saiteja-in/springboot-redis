@@ -1,0 +1,6 @@
+2025-12-04 14:46:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select * from [*]'tutorial'"; expected "identifier"; SQL statement:
+select * from 'tutorial' [42001-214]
+2025-12-04 14:46:11 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select * from [*]'tutorials'"; expected "identifier"; SQL statement:
+select * from 'tutorials' [42001-214]
